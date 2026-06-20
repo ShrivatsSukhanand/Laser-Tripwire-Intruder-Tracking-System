@@ -26,7 +26,7 @@ Working Principle
 - The detected room occupancy status is transmitted via Bluetooth to the owner.
 - The system continuously updates the intruder's location while monitoring remains active.
 
-The video demonstartion is uploaded under "Video Demo" folder in the same repository
+The video demonstartion is uploaded under "Video Demo" name in the same repository
 
 Team
 Developed as part of the IoT Skill Lab by a 4-member team at Ramaiah Institute of Technology (AUGUST 2024).
