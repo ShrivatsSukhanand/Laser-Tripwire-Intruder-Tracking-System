@@ -40,7 +40,3 @@ https://projecthub.arduino.cc/fanesahadi/laser-security-system-at-home-basic-f2a
 
 Application for Bluetooth-Terminal
 https://play.google.com/store/apps/details?id=de.kai_morich.serial_bluetooth_terminal
-
-
-Arduino Project Hub:
-https://projecthub.arduino.cc/fanesahadi/laser-security-system-at-home-basic-f2a7
